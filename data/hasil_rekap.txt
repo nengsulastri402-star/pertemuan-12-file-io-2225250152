@@ -1,0 +1,9 @@
+==============================
+      HASIL REKAP NILAI       
+==============================
+Jumlah data valid : 5
+Rata-rata nilai   : 83.40
+Nilai Minimum     : 74.00
+Nilai Maksimum    : 92.00
+Jumlah Lulus (>=60): 5
+==============================
